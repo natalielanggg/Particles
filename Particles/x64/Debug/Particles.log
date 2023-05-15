@@ -1,0 +1,4 @@
+﻿  Engine.cpp
+C:\Users\GLang\source\repos\Particles\Particle.h(5,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GLang\source\repos\Particles\Particle.h(8,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Particles.vcxproj -> C:\Users\GLang\source\repos\Particles\x64\Debug\Particles.exe
